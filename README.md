@@ -12,3 +12,4 @@ Here you may find all exercises with R from :
 7.  [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python/)
 
 My IDE of choice is the best [RStudio](http://www.rstudio.com/). Just try it and follow its development [here](https://www.github.com/rstudio/rstudio) 
+környezeti modellezés
